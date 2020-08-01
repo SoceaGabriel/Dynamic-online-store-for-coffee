@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="logical_file_project" id="84F5453E-9BCD-F357-4BCE-B4D739792417" version="3.5">
+<createdBy>Gabi Socea</createdBy>
+<createdTime>2019-11-11 10:08:58 UTC</createdTime>
+<ownerDesignName>logical_file_project</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>84F5453E-9BCD-F357-4BCE-B4D739792417</designId>
+</OSDM_Design>

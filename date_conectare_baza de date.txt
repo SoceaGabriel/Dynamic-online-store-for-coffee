@@ -1,0 +1,2 @@
+USERNAME: magazin_cafea
+PAROLA: cafea

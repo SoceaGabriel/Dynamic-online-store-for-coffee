@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="relational_file_project" id="C920B50C-4EAF-7052-08B3-224F8C27DD29" version="3.5">
+<createdBy>Gabi Socea</createdBy>
+<createdTime>2019-11-11 07:47:09 UTC</createdTime>
+<ownerDesignName>relational_file_project</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>C920B50C-4EAF-7052-08B3-224F8C27DD29</designId>
+</OSDM_Design>
